@@ -1,5 +1,10 @@
 # Run-DC-motor-with-Hbridge-and-Arduino
 
+**Components**
+- Arduni UNO
+- L239D Motor Driver
+- DC Motor
+  
 **Explanation**
 
 Pin Definitions: The motor control pins (motorPin1 and motorPin2) and the enable pin (enablePin) are defined at the beginning.
